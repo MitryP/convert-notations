@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ua.com.mitryp","l":"Bases"},{"p":"ua.com.mitryp.tools","l":"ConsoleTools"},{"p":"ua.com.mitryp.tools","l":"DataInput"}];updateSearchResults();
